@@ -2,6 +2,7 @@ import requests
 import json
 
 from scapy.all import *
+from ip2geotools.databases.noncommercial import DbIpCity
 
 def pc(packet):
     if packet.proto == 17:
