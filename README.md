@@ -5,4 +5,4 @@ IP grabber for Dying Light's multiplayer.
 https://npcap.com/
 
 # PIP
-scapy, ip2geotools
+scapy, ip2geotools, requests
